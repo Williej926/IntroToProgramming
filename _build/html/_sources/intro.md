@@ -20,11 +20,6 @@ At the end of this course, students should be able to:
 Most importantly, it is my goal to equip students with the tools and knowledge to continue their programming journey independently and with confidence.
 
 
-### Exams
-
-Due to the hands-on nature of programming, exams are not necessary for learning programming. I believe that studnets learn best when playing around with code and learning from their mistakes. Additionally, the one on one aspect of the course allows me to facilitate a student's learning and encourage them to make these mistakes.
-
-
 #### Homework
 
 Homework will be assigned to students after every lesson and can be accessed on this website. The homework is designed not to teach, but to reinforce previous knowledge and encourage creativity.
