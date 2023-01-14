@@ -1,4 +1,4 @@
-Intro To Programming
+Syllabus
 ============================
 
 ## Course Overview
